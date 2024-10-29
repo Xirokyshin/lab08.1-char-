@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+D:\Visual Studio\PROJECT\PR8.1(char)\PR8.1(char).cpp(13,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\Visual Studio\PROJECT\PR8.1(char)\PR8.1(char).cpp(32,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+D:\Visual Studio\PROJECT\PR8.1(char)\PR8.1(char).cpp(39,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> D:\Visual Studio\PROJECT\PR8.1(char)\x64\Debug\UnitTest1.dll
